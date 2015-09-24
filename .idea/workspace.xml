@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29609f74-dd3b-4e40-8c26-70938017ebe3" name="Default" comment="newMethod created" />
-    <list id="aba9054b-276e-4c2d-b712-7931ff596ffa" name="newMethod" comment="newMethod added">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SoftwareEstimation.iml" afterPath="$PROJECT_DIR$/SoftwareEstimation.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="29609f74-dd3b-4e40-8c26-70938017ebe3" name="Default" comment="newMethod created">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SoftwareEstimation.iws" />
@@ -457,14 +454,14 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="29609f74-dd3b-4e40-8c26-70938017ebe3" name="Default" comment="" />
-      <changelist id="aba9054b-276e-4c2d-b712-7931ff596ffa" name="newMethod" comment="newMethod added" />
+      <changelist id="" name="newMethod" comment="newMethod added" />
       <created>1442545529762</created>
       <option name="number" value="Default" />
       <updated>1442545529762</updated>
       <workItem from="1442545535010" duration="4833000" />
       <workItem from="1442778305542" duration="4549000" />
       <workItem from="1443133292678" duration="939000" />
-      <workItem from="1443135481898" duration="515000" />
+      <workItem from="1443135481898" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="newMethod created">
       <created>1443135858717</created>
@@ -472,11 +469,17 @@
       <option name="project" value="LOCAL" />
       <updated>1443135858717</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="newMethod added">
+      <created>1443136001717</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1443136001717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10836000" />
+    <option name="totallyTimeSpent" value="10849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -538,7 +541,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="newMethod created" />
-    <option name="LAST_COMMIT_MESSAGE" value="newMethod created" />
+    <MESSAGE value="newMethod added" />
+    <option name="LAST_COMMIT_MESSAGE" value="newMethod added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
